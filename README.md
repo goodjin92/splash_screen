@@ -18,5 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 # 강의 정보
 
 강의명 : [코드팩토리] [초급] Flutter 3.0 앱 개발 - 10개의 프로젝트로 오늘 초보 탈출!
+
 강의내용 : Splash Screen 앱 제작하기
+
 수강일 : 2023-01-17
